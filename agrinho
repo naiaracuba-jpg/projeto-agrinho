@@ -1,1 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escola Futuro Brilhante | Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+    <header>
+        <h1>Escola Futuro Brilhante</h1>
+        <p>Formando cidadãos para o mundo de amanhã</p>
+    </header>
+
+    <nav>
+        <a href="#">Início</a>
+        <a href="#">Sobre Nós</a>
+        <a href="#">Matrículas</a>
+        <a href="#">Contato</a>
+    </nav>
+
+    <section class="hero">
+        <h2>Bem-vindos ao nosso Portal Escolar</h2>
+        <p>Aqui você encontra notícias, calendário de provas e acesso ao portal do aluno.</p>
+        <button class="btn-saiba-mais">Saiba Mais</button>
+    </section>
+
+    <main class="container">
+        <section class="features">
+            <article class="box">
+                <h3>Infraestrutura</h3>
+                <p>Laboratórios de ponta, biblioteca moderna e ginásio poliesportivo.</p>
+            </article>
+            <article class="box">
+                <h3>Metodologia</h3>
+                <p>Ensino bilíngue e foco no desenvolvimento socioemocional.</p>
+            </article>
+            <article class="box">
+                <h3>Eventos</h3>
+                <p>Fique por dentro das nossas feiras de ciências e eventos culturais.</p>
+            </article>
+        </section>
+
+        <hr>
+
+        <section id="noticias">
+            <h3>Últimas Notícias</h3>
+            <ul>
+                <li><strong>10/05:</strong> Reunião de pais e mestres no auditório principal.</li>
+                <li><strong>15/05:</strong> Início das inscrições para o campeonato de xadrez.</li>
+                <li><strong>20/05:</strong> Passeio pedagógico ao Museu de Tecnologia.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Escola Futuro Brilhante. Todos os direitos reservados.</p>
+        <p>Rua da Educação, 123 - Cidade Escolar</p>
+    </footer>
+
+</body>
+</html>
